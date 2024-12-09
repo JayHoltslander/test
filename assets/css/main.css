@@ -747,13 +747,13 @@ button,
   input[type="button"]:hover,
   button:hover,
   .button:hover {
-    background-color: #ED3E2F; }
+    background-color: #761f17; }
   input[type="submit"]:active,
   input[type="reset"]:active,
   input[type="button"]:active,
   button:active,
   .button:active {
-    background-color: #199e83; }
+    background-color: #761f17; }
   input[type="submit"].disabled, input[type="submit"]:disabled,
   input[type="reset"].disabled,
   input[type="reset"]:disabled,
